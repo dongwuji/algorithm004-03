@@ -7,6 +7,7 @@ public class Solution {
                 {
                     if (i != j)
                     {
+                        
                         nums[i] = nums[j];
                     }
                     i++;
